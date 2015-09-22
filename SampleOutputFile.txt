@@ -1,0 +1,136 @@
+﻿/usr/bin/python2.7 /home/svijaykumar/PycharmProjects/ngram/assignmentPart1.py
+Enter the absolute path of the corpus folder (i.e directory containing the different genre folders : /home/svijaykumar/train_books1
+Constructing unigram and bigram model for the corpus
+Done with unigram construction...!!!
+Done with bigram construction...!!!
+1 Generate random sentence using unigram model
+2 Generate random sentence using bigram model
+3 Generate sentence using bigram model with seed token/string
+4 Quit
+Please Select:1
+Enter the genre: children
+children  :  daughter can wanted day ] Away , thee by their precede been grooms begged the when no began of of , after And , to not TALES `` face , .
+1 Generate random sentence using unigram model
+2 Generate random sentence using bigram model
+3 Generate sentence using bigram model with seed token/string
+4 Quit
+Please Select:1
+Enter the genre: crime
+crime  :  his set more an for to it dealing hour did a stay stood , did I my `` a all small Bunny again when day struggling '' '' seven crash .
+1 Generate random sentence using unigram model
+2 Generate random sentence using bigram model
+3 Generate sentence using bigram model with seed token/string
+4 Quit
+Please Select:1
+Enter the genre: history
+history  :  and what pours 779 domains through renamed put raised to the ancient .
+1 Generate random sentence using unigram model
+2 Generate random sentence using bigram model
+3 Generate sentence using bigram model with seed token/string
+4 Quit
+Please Select:2
+Enter the genre: crime
+crime  :  people , chattering .
+1 Generate random sentence using unigram model
+2 Generate random sentence using bigram model
+3 Generate sentence using bigram model with seed token/string
+4 Quit
+Please Select:2
+Enter the genre: crime
+crime  :  clerk saw it down behind and yourself open on them sharply : 'I should he still would recover it need were sentenced to picture was disporting myself that so many .
+1 Generate random sentence using unigram model
+2 Generate random sentence using bigram model
+3 Generate sentence using bigram model with seed token/string
+4 Quit
+Please Select:2
+Enter the genre: children
+children  :  ? In my night one managed to trying for friends we burn incense of mind quite an Oliver on carts , Where have entered into Scotland , clung to sever .
+1 Generate random sentence using unigram model
+2 Generate random sentence using bigram model
+3 Generate sentence using bigram model with seed token/string
+4 Quit
+Please Select:2
+Enter the genre: children
+children  :  swollen and swam to tap a haunted castle were all one idea of poor array .
+1 Generate random sentence using unigram model
+2 Generate random sentence using bigram model
+3 Generate sentence using bigram model with seed token/string
+4 Quit
+Please Select:2
+Enter the genre: history
+history  :  _Trigno_ ) gives his principal force .
+1 Generate random sentence using unigram model
+2 Generate random sentence using bigram model
+3 Generate sentence using bigram model with seed token/string
+4 Quit
+Please Select:2
+Enter the genre: history
+history  :  . Volscians ( 378 ) who notifies you ? Have we to famine ; Etruria ( _basks_ ) 474 ) 82 VII AT THE PRINCES IN ASIA MINOR 126 ] .
+1 Generate random sentence using unigram model
+2 Generate random sentence using bigram model
+3 Generate sentence using bigram model with seed token/string
+4 Quit
+Please Select:3
+Enter the genre to complete the bigram sentence prediction: children
+Enter the seed string/token: both humans and by
+children  :  both humans and by death ? Truly she comforted them show me alive in Nottingham was pledged until I demand arms than with him well astonish you knighted Gareth relented
+1 Generate random sentence using unigram model
+2 Generate random sentence using bigram model
+3 Generate sentence using bigram model with seed token/string
+4 Quit
+Please Select:3
+Enter the genre to complete the bigram sentence prediction: children
+Enter the seed string/token: prepared by hundreds
+children  :  prepared by hundreds and difficulties , dost eat out no discourse that garden beneath my beard was Vivien
+1 Generate random sentence using unigram model
+2 Generate random sentence using bigram model
+3 Generate sentence using bigram model with seed token/string
+4 Quit
+Please Select:2
+Enter the genre: crime
+crime  :  a dislike to order .
+1 Generate random sentence using unigram model
+2 Generate random sentence using bigram model
+3 Generate sentence using bigram model with seed token/string
+4 Quit
+Please Select:3
+Enter the genre to complete the bigram sentence prediction: crime
+Enter the seed string/token: more to admire
+crime  :  more to admire the outlines
+1 Generate random sentence using unigram model
+2 Generate random sentence using bigram model
+3 Generate sentence using bigram model with seed token/string
+4 Quit
+Please Select:3
+Enter the genre to complete the bigram sentence prediction: crime
+Enter the seed string/token: more to admire
+crime  :  more to admire her face its kind understood to 'give old Hector Carruthers ; ... have that joke all wrinkled and disappointed
+1 Generate random sentence using unigram model
+2 Generate random sentence using bigram model
+3 Generate sentence using bigram model with seed token/string
+4 Quit
+Please Select:3
+Enter the genre to complete the bigram sentence prediction: crime
+Enter the seed string/token: a house i've dined
+crime  :  a house i 've dined with every drawer , shut it back room quickly across my course they do copyright royalties
+1 Generate random sentence using unigram model
+2 Generate random sentence using bigram model
+3 Generate sentence using bigram model with seed token/string
+4 Quit
+Please Select:3
+Enter the genre to complete the bigram sentence prediction: history
+Enter the seed string/token: demonstrates that the reason
+history  :  demonstrates that the reason is taken refuge with liberty if both he started up treaties with Gunther , changes introduced commerce were its leader was understood Greek papyrus
+1 Generate random sentence using unigram model
+2 Generate random sentence using bigram model
+3 Generate sentence using bigram model with seed token/string
+4 Quit
+Please Select:3
+Enter the genre to complete the bigram sentence prediction: history
+Enter the seed string/token: he must surpass her
+history  :  he must surpass her attributes the oath imposed upon each tribe of equal force his memory by the design supposed that her two factions prevailed in gratitude
+1 Generate random sentence using unigram model
+2 Generate random sentence using bigram model
+3 Generate sentence using bigram model with seed token/string
+4 Quit
+Please Select:
